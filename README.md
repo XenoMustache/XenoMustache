@@ -1,4 +1,4 @@
-<img align="left" src="https://cdn.discordapp.com/attachments/753834139760853023/795093396514537563/unknown.png" width=300>
+<img align="left" src="https://cdn.discordapp.com/attachments/753834139760853023/795093396514537563/unknown.png" width=450>
 
 ### Hello! I'm Xeno!
 ---
