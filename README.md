@@ -1,4 +1,4 @@
-<img align="left" src="https://cdn.discordapp.com/attachments/753834139760853023/795093396514537563/unknown.png" width=400>
+<img align="left" src="https://cdn.discordapp.com/attachments/753834139760853023/795093396514537563/unknown.png" width=300>
 
 ### Hello! I'm Xeno!
 ---
@@ -13,6 +13,7 @@
 - I have a [twitter](https://twitter.com/XenoMustache) if you'd like updates on my projects!
 - I have a [patreon](https://www.patreon.com/xenomustache) if you'd like to support them!
 - I have a [discord server](https://discord.gg/XenUJaT) if you'd like to discuss them with others!
+
 
 <!--
   :o you found me!
