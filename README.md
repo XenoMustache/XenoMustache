@@ -11,9 +11,6 @@
 ---
 
 - I have a [twitter](https://twitter.com/XenoMustache) if you'd like updates on my projects!
-- I have a [patreon](https://www.patreon.com/xenomustache) if you'd like to support them!
-- I have a [discord server](https://discord.gg/XenUJaT) if you'd like to discuss them with others!
-
 
 <!--
   :o you found me!
