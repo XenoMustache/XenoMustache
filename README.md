@@ -2,16 +2,16 @@
 
 ### Hello! I'm Xeno!
 
-💾 My programming language of choice is C#, although I am quite proficient at C/C++ and Java.
+💾 My programming language of choice is C, sometimes I use C#.
 
-🎮 I primarily use GitHub for game and mod development, most of my projects are open source!
+🎮 I don't really use GitHub much anymore, I've switched mostly to GitLab for serious development.
 
-🦆 I love ducks! I find them very cute, and they are my favorite animal.
+🦆 Ducks are great.
 
 ---
 
 - I have a [twitter](https://twitter.com/XenoMustache) if you'd like updates on my projects!
 
 <!--
-  :o you found me!
+  Go away <3
 -->
