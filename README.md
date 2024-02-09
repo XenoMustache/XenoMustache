@@ -10,8 +10,6 @@
 
 ---
 
-- I have a [twitter](https://twitter.com/XenoMustache) if you'd like updates on my projects!
-
 <!--
   Go away <3
 -->
