@@ -1,4 +1,4 @@
-<img align="left" src="https://cdn.discordapp.com/attachments/746914406276792413/795105373388013598/duck.png" width=200>
+![Duck](duck.webp "A Glorious Duck!")
 
 ### Hello! I'm Xeno!
 
