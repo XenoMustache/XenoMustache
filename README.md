@@ -1,4 +1,4 @@
-![Duck](duck.webp "A Glorious Duck!")
+<img align="left" src="duck.webp" width=200>
 
 ### Hello! I'm Xeno!
 
